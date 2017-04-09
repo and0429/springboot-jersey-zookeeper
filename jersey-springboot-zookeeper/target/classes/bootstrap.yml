@@ -1,6 +1,0 @@
-spring:
-  application:
-    name: bootZookeeper
-  cloud:
-    zookeeper:
-       connect-string: 192.168.7.106:2181
